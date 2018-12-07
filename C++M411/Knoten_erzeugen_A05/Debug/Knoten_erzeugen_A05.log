@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  Knoten_erzeugen_A05.cpp
+c:\users\vmadmin\documents\visual studio 2017\projects\c++m411\knoten_erzeugen_a05\knoten_erzeugen_a05.cpp(28): error C3861: "malloc": Bezeichner wurde nicht gefunden.
+c:\users\vmadmin\documents\visual studio 2017\projects\c++m411\knoten_erzeugen_a05\knoten_erzeugen_a05.cpp(42): error C3861: "system": Bezeichner wurde nicht gefunden.
