@@ -1,0 +1,19 @@
+	struElement *pElement = (struElement*) malloc(sizeof(struElement));
+	pElement->Nummer = 1;
+	pElement->pNext = NULL;
+
+	struElement *pStart = pElement;
+
+	pElement = (struElement*)malloc(sizeof(struElement));
+	pElement->Nummer = 2;
+	pElement->pNext = NULL;
+	pStart->pNext = pElement;
+
+	pElement = (struElement*)malloc(sizeof(struElement));
+	pElement->Nummer = 3;
+	pElement->pNext = NULL;
+	pStart->pNext->pNext = pElement;
+
+	for (struElement *pOut = pStart; pOut != NULL; pOut = pOut->pNext) {
+		printf("Element: %i\n", pOut->Nummer);
+	}

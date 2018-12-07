@@ -1,0 +1,27 @@
+#include <string.h>
+#include <stdio.h>
+#include <stdlib.h>
+ 
+struct Address {
+    char firstName[50];
+    char lastName[50];
+    char street[50];
+    char location[50];
+    char postalCode[50];
+};
+ 
+void main() {
+    struct Address address;
+    struct Address* pAddress = &address;
+ 
+
+    strcpy_s(pAddress->firstName, "Lino");
+    strcpy_s(pAddress->lastName, "Meyer");
+    strcpy_s(pAddress->street, "Eichenstrasse 11");
+    strcpy_s(pAddress->location, "Rothenburg");
+    strcpy_s(pAddress->postalCode, "6023");
+ 
+    printf("%s %s\n%s\n%s %s\n", pAddress->firstName, pAddress->lastName, pAddress->street, pAddress->location, pAddress->postalCode);
+    system("pause");
+}
+ 
