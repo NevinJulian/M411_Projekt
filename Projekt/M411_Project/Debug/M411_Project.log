@@ -1,2 +1,6 @@
 ﻿  M411_Project.cpp
-  M411_Project.vcxproj -> C:\Users\vmadmin\Documents\GitHub\M411_Projekt\Projekt\Debug\M411_Project.exe
+c:\users\vmadmin\documents\github\m411_projekt\projekt\m411_project\m411_project.cpp(90): warning C4473: "scanf_s": nicht genügend Argumente für Formatzeichenfolge übergeben
+  c:\users\vmadmin\documents\github\m411_projekt\projekt\m411_project\m411_project.cpp(90): note: Platzhalter und deren Parameter erwarten 2 variadic-Argumente, es wurden aber 1 variadic-Argumente bereitgestellt.
+  c:\users\vmadmin\documents\github\m411_projekt\projekt\m411_project\m411_project.cpp(90): note: Das fehlende variadic-Argument "2" ist für die Zeichenfolge "%c" erforderlich.
+  c:\users\vmadmin\documents\github\m411_projekt\projekt\m411_project\m411_project.cpp(90): note: Dieses Argument wird als Puffergröße verwendet.
+LINK : fatal error LNK1168: "C:\Users\vmadmin\Documents\GitHub\M411_Projekt\Projekt\Debug\M411_Project.exe" kann nicht zum Schreiben geöffnet werden.
