@@ -1,28 +1,16 @@
 ﻿  M411_Project.cpp
-c:\users\vmadmin\documents\github\m411_projekt\projekt\m411_project\m411_project.cpp(315): warning C4473: "scanf_s": nicht genügend Argumente für Formatzeichenfolge übergeben
-  c:\users\vmadmin\documents\github\m411_projekt\projekt\m411_project\m411_project.cpp(315): note: Platzhalter und deren Parameter erwarten 2 variadic-Argumente, es wurden aber 1 variadic-Argumente bereitgestellt.
-  c:\users\vmadmin\documents\github\m411_projekt\projekt\m411_project\m411_project.cpp(315): note: Das fehlende variadic-Argument "2" ist für die Zeichenfolge "%c" erforderlich.
-  c:\users\vmadmin\documents\github\m411_projekt\projekt\m411_project\m411_project.cpp(315): note: Dieses Argument wird als Puffergröße verwendet.
-c:\users\vmadmin\documents\github\m411_projekt\projekt\m411_project\m411_project.cpp(335): warning C4473: "scanf_s": nicht genügend Argumente für Formatzeichenfolge übergeben
-  c:\users\vmadmin\documents\github\m411_projekt\projekt\m411_project\m411_project.cpp(335): note: Platzhalter und deren Parameter erwarten 2 variadic-Argumente, es wurden aber 1 variadic-Argumente bereitgestellt.
-  c:\users\vmadmin\documents\github\m411_projekt\projekt\m411_project\m411_project.cpp(335): note: Das fehlende variadic-Argument "2" ist für die Zeichenfolge "%s" erforderlich.
-  c:\users\vmadmin\documents\github\m411_projekt\projekt\m411_project\m411_project.cpp(335): note: Dieses Argument wird als Puffergröße verwendet.
-c:\users\vmadmin\documents\github\m411_projekt\projekt\m411_project\m411_project.cpp(337): warning C4473: "scanf_s": nicht genügend Argumente für Formatzeichenfolge übergeben
-  c:\users\vmadmin\documents\github\m411_projekt\projekt\m411_project\m411_project.cpp(337): note: Platzhalter und deren Parameter erwarten 2 variadic-Argumente, es wurden aber 1 variadic-Argumente bereitgestellt.
-  c:\users\vmadmin\documents\github\m411_projekt\projekt\m411_project\m411_project.cpp(337): note: Das fehlende variadic-Argument "2" ist für die Zeichenfolge "%s" erforderlich.
-  c:\users\vmadmin\documents\github\m411_projekt\projekt\m411_project\m411_project.cpp(337): note: Dieses Argument wird als Puffergröße verwendet.
-c:\users\vmadmin\documents\github\m411_projekt\projekt\m411_project\m411_project.cpp(359): warning C4473: "scanf_s": nicht genügend Argumente für Formatzeichenfolge übergeben
-  c:\users\vmadmin\documents\github\m411_projekt\projekt\m411_project\m411_project.cpp(359): note: Platzhalter und deren Parameter erwarten 2 variadic-Argumente, es wurden aber 1 variadic-Argumente bereitgestellt.
-  c:\users\vmadmin\documents\github\m411_projekt\projekt\m411_project\m411_project.cpp(359): note: Das fehlende variadic-Argument "2" ist für die Zeichenfolge "%s" erforderlich.
-  c:\users\vmadmin\documents\github\m411_projekt\projekt\m411_project\m411_project.cpp(359): note: Dieses Argument wird als Puffergröße verwendet.
-c:\users\vmadmin\documents\github\m411_projekt\projekt\m411_project\m411_project.cpp(361): warning C4473: "scanf_s": nicht genügend Argumente für Formatzeichenfolge übergeben
-  c:\users\vmadmin\documents\github\m411_projekt\projekt\m411_project\m411_project.cpp(361): note: Platzhalter und deren Parameter erwarten 2 variadic-Argumente, es wurden aber 1 variadic-Argumente bereitgestellt.
-  c:\users\vmadmin\documents\github\m411_projekt\projekt\m411_project\m411_project.cpp(361): note: Das fehlende variadic-Argument "2" ist für die Zeichenfolge "%s" erforderlich.
-  c:\users\vmadmin\documents\github\m411_projekt\projekt\m411_project\m411_project.cpp(361): note: Dieses Argument wird als Puffergröße verwendet.
-c:\users\vmadmin\documents\github\m411_projekt\projekt\m411_project\m411_project.cpp(374): warning C4473: "scanf_s": nicht genügend Argumente für Formatzeichenfolge übergeben
-  c:\users\vmadmin\documents\github\m411_projekt\projekt\m411_project\m411_project.cpp(374): note: Platzhalter und deren Parameter erwarten 2 variadic-Argumente, es wurden aber 1 variadic-Argumente bereitgestellt.
-  c:\users\vmadmin\documents\github\m411_projekt\projekt\m411_project\m411_project.cpp(374): note: Das fehlende variadic-Argument "2" ist für die Zeichenfolge "%c" erforderlich.
-  c:\users\vmadmin\documents\github\m411_projekt\projekt\m411_project\m411_project.cpp(374): note: Dieses Argument wird als Puffergröße verwendet.
+c:\users\vmadmin\documents\github\m411_projekt\projekt\m411_project\m411_project.cpp(330): warning C4473: "scanf_s": nicht genügend Argumente für Formatzeichenfolge übergeben
+  c:\users\vmadmin\documents\github\m411_projekt\projekt\m411_project\m411_project.cpp(330): note: Platzhalter und deren Parameter erwarten 2 variadic-Argumente, es wurden aber 1 variadic-Argumente bereitgestellt.
+  c:\users\vmadmin\documents\github\m411_projekt\projekt\m411_project\m411_project.cpp(330): note: Das fehlende variadic-Argument "2" ist für die Zeichenfolge "%c" erforderlich.
+  c:\users\vmadmin\documents\github\m411_projekt\projekt\m411_project\m411_project.cpp(330): note: Dieses Argument wird als Puffergröße verwendet.
+c:\users\vmadmin\documents\github\m411_projekt\projekt\m411_project\m411_project.cpp(350): warning C4473: "scanf_s": nicht genügend Argumente für Formatzeichenfolge übergeben
+  c:\users\vmadmin\documents\github\m411_projekt\projekt\m411_project\m411_project.cpp(350): note: Platzhalter und deren Parameter erwarten 2 variadic-Argumente, es wurden aber 1 variadic-Argumente bereitgestellt.
+  c:\users\vmadmin\documents\github\m411_projekt\projekt\m411_project\m411_project.cpp(350): note: Das fehlende variadic-Argument "2" ist für die Zeichenfolge "%s" erforderlich.
+  c:\users\vmadmin\documents\github\m411_projekt\projekt\m411_project\m411_project.cpp(350): note: Dieses Argument wird als Puffergröße verwendet.
+c:\users\vmadmin\documents\github\m411_projekt\projekt\m411_project\m411_project.cpp(352): warning C4473: "scanf_s": nicht genügend Argumente für Formatzeichenfolge übergeben
+  c:\users\vmadmin\documents\github\m411_projekt\projekt\m411_project\m411_project.cpp(352): note: Platzhalter und deren Parameter erwarten 2 variadic-Argumente, es wurden aber 1 variadic-Argumente bereitgestellt.
+  c:\users\vmadmin\documents\github\m411_projekt\projekt\m411_project\m411_project.cpp(352): note: Das fehlende variadic-Argument "2" ist für die Zeichenfolge "%s" erforderlich.
+  c:\users\vmadmin\documents\github\m411_projekt\projekt\m411_project\m411_project.cpp(352): note: Dieses Argument wird als Puffergröße verwendet.
 c:\users\vmadmin\documents\github\m411_projekt\projekt\m411_project\m411_project.cpp(377): warning C4473: "scanf_s": nicht genügend Argumente für Formatzeichenfolge übergeben
   c:\users\vmadmin\documents\github\m411_projekt\projekt\m411_project\m411_project.cpp(377): note: Platzhalter und deren Parameter erwarten 2 variadic-Argumente, es wurden aber 1 variadic-Argumente bereitgestellt.
   c:\users\vmadmin\documents\github\m411_projekt\projekt\m411_project\m411_project.cpp(377): note: Das fehlende variadic-Argument "2" ist für die Zeichenfolge "%s" erforderlich.
@@ -31,6 +19,17 @@ c:\users\vmadmin\documents\github\m411_projekt\projekt\m411_project\m411_project
   c:\users\vmadmin\documents\github\m411_projekt\projekt\m411_project\m411_project.cpp(379): note: Platzhalter und deren Parameter erwarten 2 variadic-Argumente, es wurden aber 1 variadic-Argumente bereitgestellt.
   c:\users\vmadmin\documents\github\m411_projekt\projekt\m411_project\m411_project.cpp(379): note: Das fehlende variadic-Argument "2" ist für die Zeichenfolge "%s" erforderlich.
   c:\users\vmadmin\documents\github\m411_projekt\projekt\m411_project\m411_project.cpp(379): note: Dieses Argument wird als Puffergröße verwendet.
-c:\users\vmadmin\documents\github\m411_projekt\projekt\m411_project\m411_project.cpp(370): warning C4101: "nummer": Unreferenzierte lokale Variable
-c:\users\vmadmin\documents\github\m411_projekt\projekt\m411_project\m411_project.cpp(283): warning C4715: "indexfiden": Nicht alle Codepfade geben einen Wert zurück.
+c:\users\vmadmin\documents\github\m411_projekt\projekt\m411_project\m411_project.cpp(389): warning C4473: "scanf_s": nicht genügend Argumente für Formatzeichenfolge übergeben
+  c:\users\vmadmin\documents\github\m411_projekt\projekt\m411_project\m411_project.cpp(389): note: Platzhalter und deren Parameter erwarten 2 variadic-Argumente, es wurden aber 1 variadic-Argumente bereitgestellt.
+  c:\users\vmadmin\documents\github\m411_projekt\projekt\m411_project\m411_project.cpp(389): note: Das fehlende variadic-Argument "2" ist für die Zeichenfolge "%c" erforderlich.
+  c:\users\vmadmin\documents\github\m411_projekt\projekt\m411_project\m411_project.cpp(389): note: Dieses Argument wird als Puffergröße verwendet.
+c:\users\vmadmin\documents\github\m411_projekt\projekt\m411_project\m411_project.cpp(392): warning C4473: "scanf_s": nicht genügend Argumente für Formatzeichenfolge übergeben
+  c:\users\vmadmin\documents\github\m411_projekt\projekt\m411_project\m411_project.cpp(392): note: Platzhalter und deren Parameter erwarten 2 variadic-Argumente, es wurden aber 1 variadic-Argumente bereitgestellt.
+  c:\users\vmadmin\documents\github\m411_projekt\projekt\m411_project\m411_project.cpp(392): note: Das fehlende variadic-Argument "2" ist für die Zeichenfolge "%s" erforderlich.
+  c:\users\vmadmin\documents\github\m411_projekt\projekt\m411_project\m411_project.cpp(392): note: Dieses Argument wird als Puffergröße verwendet.
+c:\users\vmadmin\documents\github\m411_projekt\projekt\m411_project\m411_project.cpp(394): warning C4473: "scanf_s": nicht genügend Argumente für Formatzeichenfolge übergeben
+  c:\users\vmadmin\documents\github\m411_projekt\projekt\m411_project\m411_project.cpp(394): note: Platzhalter und deren Parameter erwarten 2 variadic-Argumente, es wurden aber 1 variadic-Argumente bereitgestellt.
+  c:\users\vmadmin\documents\github\m411_projekt\projekt\m411_project\m411_project.cpp(394): note: Das fehlende variadic-Argument "2" ist für die Zeichenfolge "%s" erforderlich.
+  c:\users\vmadmin\documents\github\m411_projekt\projekt\m411_project\m411_project.cpp(394): note: Dieses Argument wird als Puffergröße verwendet.
+c:\users\vmadmin\documents\github\m411_projekt\projekt\m411_project\m411_project.cpp(294): warning C4715: "indexfiden": Nicht alle Codepfade geben einen Wert zurück.
   M411_Project.vcxproj -> C:\Users\vmadmin\Documents\GitHub\M411_Projekt\Projekt\Debug\M411_Project.exe
