@@ -1,0 +1,15 @@
+﻿  stdafx.cpp
+  M411_Project.cpp
+M411_Project.cpp(429): warning C4473: "scanf_s": nicht genügend Argumente für Formatzeichenfolge übergeben
+  M411_Project.cpp(429): note: Platzhalter und deren Parameter erwarten 2 variadic-Argumente, es wurden aber 1 variadic-Argumente bereitgestellt.
+  M411_Project.cpp(429): note: Das fehlende variadic-Argument "2" ist für die Zeichenfolge "%c" erforderlich.
+  M411_Project.cpp(429): note: Dieses Argument wird als Puffergröße verwendet.
+M411_Project.cpp(496): warning C4473: "scanf_s": nicht genügend Argumente für Formatzeichenfolge übergeben
+  M411_Project.cpp(496): note: Platzhalter und deren Parameter erwarten 2 variadic-Argumente, es wurden aber 1 variadic-Argumente bereitgestellt.
+  M411_Project.cpp(496): note: Das fehlende variadic-Argument "2" ist für die Zeichenfolge "%c" erforderlich.
+  M411_Project.cpp(496): note: Dieses Argument wird als Puffergröße verwendet.
+M411_Project.cpp(376): warning C4101: "unterlistenr": Unreferenzierte lokale Variable
+  Code wird generiert.
+  Codegenerierung ist abgeschlossen.
+  All 23 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  M411_Project.vcxproj -> C:\Users\vmadmin\Documents\GitHub\M411_Projekt\Projekt\Release\M411_Project.exe
